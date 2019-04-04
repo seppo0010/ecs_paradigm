@@ -980,6 +980,7 @@ What it is:
 
 ### Thanks!
 
+* Azriel Huh
 * Catherine West / `@Kyrenite`: Learnt *a lot* from her blog.
 * The `specs` team: Who have written such a great library.
 * Maik Klein: For expanding my knowledge on auto-vectorization.
@@ -989,10 +990,11 @@ What it is:
 
 ### Links
 
-* @size[0.7em](Slides: https://github.com/azriel91/ecs_paradigm)
-* @size[0.7em](RustConf 2018 Closing Keynote: https://www.youtube.com/watch?v=P9u8x13W7UE)
-* @size[0.7em](`@Kyrenite`'s Blog: https://kyren.github.io/2018/09/14/rustconf-talk.html)
-* @size[0.7em](`specs`: https://crates.io/crates/specs)
-* @size[0.7em](`soa-derive`: https://github.com/lumol-org/soa-derive)
-* @size[0.7em](Benchmark comparison: https://github.com/azriel91/aos_vs_soa)
-* @size[0.7em](Component Graph System: https://github.com/kvark/froggy/wiki/Component-Graph-System)
+* Azriel talk: https://www.youtube.com/watch?v=SofC6c9xQv4
+* Slides: https://github.com/seppo0010/ecs_paradigm
+* RustConf 2018 Closing Keynote: https://www.youtube.com/watch?v=P9u8x13W7UE
+* `@Kyrenite`'s Blog: https://kyren.github.io/2018/09/14/rustconf-talk.html
+* `specs`: https://crates.io/crates/specs
+* `soa-derive`: https://github.com/lumol-org/soa-derive
+* Benchmark comparison: https://github.com/azriel91/aos_vs_soa
+* Component Graph System: https://github.com/kvark/froggy/wiki/Component-Graph-System
