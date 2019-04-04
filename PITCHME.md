@@ -8,8 +8,8 @@ Sebastian Waisbrot
 
 ### About
 
-* **Before:** Automated distributed system management.
-* **Now:** Making a Rust game.
+* **Before:** Web front-end, back-end, iOS, a bit of devops
+* **Now:** Machine Learning, Computer Vision.
 
 +++
 
