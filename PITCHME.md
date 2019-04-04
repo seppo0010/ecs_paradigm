@@ -1,6 +1,8 @@
 ## ECS: A Programming Paradigm
 
-Azriel Hoh
+~Azriel Hoh~
+
+Sebastian Waisbrot
 
 ---
 
